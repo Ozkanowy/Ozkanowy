@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sinan Uğurcan Özkan</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
