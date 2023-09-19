@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://hatscripts.github.io/circle-flags/flags/ussr.svg" width="48">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozkanowy)](https://github.com/Ozkanowy/github-readme-stats)
 
 
