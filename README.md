@@ -2,9 +2,9 @@
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
 <div class='container'>
- <img class="img" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default)" />
- <hr>
- <img class="img" src="![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanowy&theme=default)" />
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanowy&theme=default)
 </div>
 
 
