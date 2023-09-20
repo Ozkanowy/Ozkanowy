@@ -1,7 +1,7 @@
 <h1 align="center">Hi Welcome to my page!</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
-<div style="display: flex; flex-direction: row;">
+<div class='container'>
  <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default)" />
  <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanowy&theme=default)" />
 </div>
