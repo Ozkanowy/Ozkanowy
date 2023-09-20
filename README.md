@@ -1,7 +1,7 @@
 <h1 align="center">Hi Welcome to my page!</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
-<div width="100%" align="center">
+<div width="100%" align="auto">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default"/>
 </div>
 
