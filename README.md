@@ -3,6 +3,7 @@
 
 <div class='container'>
  <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default)" />
+ <hr>
  <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanowy&theme=default)" />
 </div>
 
