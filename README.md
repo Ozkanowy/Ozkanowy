@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sinan Uğurcan Özkan</h1>
+<h1 align="center">Hi Welcome to my page!</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
 [![ ](https://github-readme-stats.vercel.app/api?username=Ozkanowy)](https://github.com/anuraghazra/github-readme-stats)
