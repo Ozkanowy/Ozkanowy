@@ -5,7 +5,7 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default"/>
 </div>
 
-<div width="100%" align="center">
+<div width="100%" align="left">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanowy&theme=default"/>
 </div>
 
