@@ -2,6 +2,9 @@
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
 [![ ](https://github-readme-stats.vercel.app/api?username=Ozkanowy)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ozkanowy&theme=default)
 
 
 
