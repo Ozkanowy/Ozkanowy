@@ -1,10 +1,18 @@
 <h1 align="center">Hi Welcome to my page!</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
-[![ ](https://github-readme-stats.vercel.app/api?username=Ozkanowy)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<div class="row">
+  <div class="column">
+    <img src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ozkanowy&theme=default)" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ozkanowy&theme=default)"  style="width:100%">
+  </div>
+ 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ozkanowy&theme=default)
+
+
+
 
 
 
