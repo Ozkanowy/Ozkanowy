@@ -1,6 +1,10 @@
 <h1 align="center">Hi Welcome to my page!</h1>
 <h3 align="center">I'm a junior dev from Turkey</h3>
 
+<h4 align="left">Certifications</h4>
+<img src="https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_Fp9YqYjRAZ2QdqdCS_completion_certificate.pdf"/>
+
+
 <div width="100%" align="auto">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanowy&theme=default"/>
 </div>
