@@ -33,7 +33,7 @@
 </a> </p>
 <h1>Live Projects</h1>
 <ul>
-<li> http://qiwis.rf.gd/ </li> <p>E-commerce project built using wordpress </p>
+<li> <input type="button" value="Webstore project" onclick="window.location.href='https://qiwis.rf.gd/';"> <p>E commerce store built using wordpress</p>
 <li> (https://exchangeapi.xo.je/) </li> <p> Excehange rate and crypto information platform along with current news from us markets api integration </p>
 <li> http://crmapi.rf.gd/?i=1 </li> <p> Web ERP project deployed into live server using Vtiger ERP  </p>
 
