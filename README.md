@@ -31,10 +31,13 @@
 
 
 </a> </p>
-<h1>Current projects</h1>
+<h1>Live Projects</h1>
 <ul>
-<li> 
-</li>
+<li> http://qiwis.rf.gd/ </li> <p>E-commerce project built using wordpress </p>
+<li> (https://exchangeapi.xo.je/) </li> <p> Excehange rate and crypto information platform along with current news from us markets api integration </p>
+<li> http://crmapi.rf.gd/?i=1 </li> <p> Web ERP project deployed into live server using Vtiger ERP  </p>
+
+                     
 
   
 </ul>
